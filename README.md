@@ -1,5 +1,6 @@
 <div align="center">
-<img src="https://github.com/Danedie04/Musify/raw/master/repository_files/Musify-banner.png" width="100%">
+<img src="https://github.com/Danedie04/Musify/repository_files
+/Musify-banner.png" width="100%">
 
 # Musify
 
