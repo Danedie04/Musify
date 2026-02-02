@@ -13,7 +13,7 @@ Unlock the full potential of music: Stream effortlessly with one app!
 
 ---
 
-<a href="https://ko-fi.com/gokadzev" target="_blank" title="ko-fi">
+<a href="https://ko-fi.com/Danedie04" target="_blank" title="ko-fi">
   <img src="https://github.com/user-attachments/assets/1c204507-d124-4b34-878b-96c39c9bb3f8"  alt="ko-fi badge" style="width: 150px;">
 </a>
 
