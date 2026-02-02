@@ -54,7 +54,7 @@ Material UI & accent colors & dynamic colors (Android 12+) <br/>
 ## Download
 
 
-[<img src="https://github.com/Danedie04/Musify/repository_files/get-it-on-github.png" alt="Get it on Github" height="80">](https://https://github.com/Danedie04/Musify/releases)
+[<img src="https://repository_files/get-it-on-github.png" alt="Get it on Github" height="80">](https://https://github.com/Danedie04/Musify/releases)
 [<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" alt="Get it on Fdroid" height="80">](https://f-droid.org/packages/com.Danedie04.musify.fdroid)
 
 ---
